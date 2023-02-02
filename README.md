@@ -60,6 +60,8 @@ GPS Line Mod: https://www.mixmods.com.br/2022/02/iii-vc-sa-gps-line-mod-radar-mi
 
 SkyGfx: https://www.mixmods.com.br/2022/07/sa-skygfx/
 
+Mi Configuración: https://www.mediafire.com/file/g2iyjsjfrggz8di/SA-skygfx_config.rar/file
+
 Damage Screen Blood: https://www.mixmods.com.br/2022/03/sa-damage-screen-blood/
 
 GraphicsTweaker: https://www.mixmods.com.br/2022/09/graphicstweaker/
