@@ -24,8 +24,6 @@ Proper Player Retex: https://www.mixmods.com.br/2022/04/proper-player-retex/
 
 Personajes de Cinemata HD+Dedos de Android: https://sharemods.com/7esio5jqve46/Cutscene_Characters_Texture_Upscale_Mobile_Hands.rar.html
 
-Ped Spec Illumination (PC, Xbox, PS2 Settings): https://gamemodding.com/es/gta-san-andreas/graphic/76021-ped-spec-illumination-pc-xbox-ps2-settings.html
-
 Proper Characters Retex HD: https://www.mixmods.com.br/2022/07/sa-proper-characters-retex-hd-peds-remaster/
 
 Ped Tweaks: https://www.mixmods.com.br/2021/09/sa-ped-tweaks-restaurar-policiais-e-pedestres/
@@ -76,6 +74,8 @@ IMFX: https://www.mixmods.com.br/2018/09/imfx-improved-fx/
 
 Enhanced Classic Graphics: https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/
 
+Shoreline Waves: https://www.mixmods.com.br/2020/03/shoreline-waves-efeito-de-ondas/
+
 Project2DFX: https://www.mixmods.com.br/2020/02/sa-project2dfx/
 
 Uncompressed SFX Pack: https://www.mixmods.com.br/2020/07/uncompressed-sfx-pack-sons-originais-em-hd/
@@ -84,7 +84,7 @@ Rain Audio Fix: https://www.mixmods.com.br/2019/07/rain-audio-fix-novos-sons-par
 
 Proper Weapons Retex: https://www.mixmods.com.br/2021/06/proper-weapons-retex-v1-3-armas-com-texturas-hd/
 
-Íconos de armas de nadalao: https://www.mixmods.com.br/2022/02/icones-de-armas-fieis-desenhos-corrigidos/
+Íconos de armas del DE: https://www.mixmods.com.br/2022/02/sa-weapons-icons-style-de/
 
 Iconos de armas TXD: https://www.mixmods.com.br/2022/02/sa-weapon-icons-txd/
 
