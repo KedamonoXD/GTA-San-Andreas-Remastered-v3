@@ -14,6 +14,8 @@ RoSA Project Evolved: https://www.mixmods.com.br/2022/01/rosa-project-evolved-re
 
 Proper Fixes: https://www.mixmods.com.br/2022/08/sa-proper-fixes/
 
+Wind Project: https://www.mixmods.com.br/2022/10/wind-project/
+
 Project Immerse-Yourself: https://www.mixmods.com.br/2022/01/project-immerse-yourself-prelight-melhorado/
 
 Proper Vehicles Retex: https://www.mixmods.com.br/2022/04/sa-sade-proper-vehicles-retex/
